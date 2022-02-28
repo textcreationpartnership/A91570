@@ -1,0 +1,1294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nevv distemper. Written by the author of the Loyall convert. Hilar. de Trin.Lib. 4. Hoc habet proprium Ecclesia; dum persecutionĕpatitur, floret; dum opprimitur, proficit; dum læditur, vincit: dum arguitur, intelligit; tunc stat quum superari videtur.</title>
+            <author>Quarles, Francis, 1592-1644.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91570</idno>
+            <idno type="STC">Wing Q110</idno>
+            <idno type="STC">Thomason E17_20</idno>
+            <idno type="EEBO-CITATION">99858900</idno>
+            <idno type="PROQUEST">99858900</idno>
+            <idno type="VID">110960</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91570)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110960)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E17[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nevv distemper. Written by the author of the Loyall convert. Hilar. de Trin.Lib. 4. Hoc habet proprium Ecclesia; dum persecutionĕpatitur, floret; dum opprimitur, proficit; dum læditur, vincit: dum arguitur, intelligit; tunc stat quum superari videtur.</title>
+                  <author>Quarles, Francis, 1592-1644.</author>
+               </titleStmt>
+               <extent>[2], 26, p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, printer to the Vniversity,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Francis Quarles is the author of the Loyall convert. Cf. BLC.</note>
+                  <note>Annotation on Thomason copy: "Noumb. 20th 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:110960:1"/>
+            <head>Die Martis 22. October. 1644.</head>
+            <p>IT is this day Ordered by the Commons
+Aſſembled in Parliament, That Maſter
+<hi>Aſhurſt,</hi> and Maſter <hi>Gourdon,</hi> doe from this
+Houſe give thankes to Mr. <hi>Vines,</hi> for the
+great paines hee tooke in the Sermon hee
+preached this day at the intreaty of the
+Commons at St. <hi>Margarets, Weſtminſter,</hi> it
+being a day eſpecially ſet apart for a publike
+Humiliation, and to deſire him to print
+his Sermon. And it is Ordered that none
+ſhall preſume to print his Sermon without
+being authorized under the hand writing of
+the ſaid Maſter <hi>Vines.</hi>
+            </p>
+            <closer>
+               <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+            </closer>
+            <postscript>
+               <p>I appo<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <hi>Abel Roper</hi> to print this Sermon.</p>
+               <closer>
+                  <signed>Richard Vines.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:110960:1" rendition="simple:additions"/>
+            <p>THE NEVV
+DISTEMPER.</p>
+            <p>WRITTEN
+By the AUTHOR of the
+Loyall Convert.</p>
+            <q>
+               <bibl>Hilar. de Trin. Lib. 4.</bibl>
+               <p>Hoc habet proprium Eccleſia; dum perſecutione<g ref="char:cmbAbbrStroke">̄</g> patitur, floret;
+dum opprimitur, proficit; dum laeditur, vincit; dum arguitur,
+intelligit; tunc ſtat quum ſuperari videtur.</p>
+            </q>
+            <p>OXFORD,
+Printed by LEONARD LICHFIELD,
+Printer to the Vniverſity. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110960:2"/>
+            <pb n="1" facs="tcp:110960:2"/>
+            <head>THE NEW
+DISTEMPER.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S it is in a Principality, or in a Republique,
+The further it ſwerves from the firſt <hi>Conſti<g ref="char:EOLhyphen"/>tution,</hi>
+and Fundamentall <hi>Principles,</hi> the
+faſter it declines, and haſtens towards <hi>Ruine;</hi>
+So is it in the Church; The more ſhe devi<g ref="char:EOLhyphen"/>ates,
+and ſlips from her firſt <hi>Foundations,</hi> the
+more ſhe growes into Diſtempers, and the
+nearer ſhe comes to <hi>Deſolation.</hi>
+            </p>
+            <p>It hath been the wiſdome of all Princes, and Free States, of
+former times, to carry a watchfull eye upon the growing <hi>Incon<g ref="char:EOLhyphen"/>venients</hi>
+of their Kingdomes and Republiques; That, as evill
+manners daily breed <hi>diſeaſes,</hi> ſo the continuall making, and exe<g ref="char:EOLhyphen"/>cution
+of good lawes ſhould daily be preſcribed as <hi>Remedies;</hi>
+left, by too long neglect and ſufferance, the Body of the Com<g ref="char:EOLhyphen"/>monwealth
+ſhould grow ſo <hi>foule</hi> with ſuperannuated evils, and
+the humors waxe ſo <hi>prevalent,</hi> that the deſperateneſſe of the diſ<g ref="char:EOLhyphen"/>eaſe
+might enforce them to as <hi>deſperate</hi> a Remedy.</p>
+            <p>It is no leſſe prudence and providence in thoſe that are appoin<g ref="char:EOLhyphen"/>ted
+by the <hi>Supreme power</hi> (as under him) chiefe Governours and
+<hi>Overſeers</hi> of the Church, to be very circumſpect; and, not onely
+faithfully to exerciſe their <hi>Miniſteriall</hi> Function, by due and care<g ref="char:EOLhyphen"/>ful
+<hi>preaching</hi> of the Goſpel; but likewiſe, diligently to diſcharge
+<pb n="2" facs="tcp:110960:3"/>
+their office in <hi>governing,</hi> that is, in making wholſome <hi>Ordi<g ref="char:EOLhyphen"/>nances,</hi>
+and duly <hi>executing</hi> them; That the Inconveniences that
+grow daily in the Church, may be daily <hi>rectified,</hi> leſt by too long
+<hi>forbearance</hi> they gather head, and ſo become either <hi>incureable;</hi> or
+elſe, capable of Remedy, with too great a <hi>loſſe.</hi>
+            </p>
+            <p>The naturall Affection I ſo dearly owe to this my native <hi>Coun<g ref="char:EOLhyphen"/>try,</hi>
+(to which my ſoule alwayes hath, doth, and will for ever,
+wiſh as much <hi>happineſſe</hi> as heaven can pleaſe to give) permits
+me not to think our Church in ſo forlorne and deſperate a <hi>Caſe,</hi>
+but that it may be <hi>capable</hi> of a wholſome Cure; Yet Senſe and
+Reaſon (flying with the naturall <hi>wings</hi> of Love and Duty) bids
+me feare, that thoſe unnaturall Humors, <hi>Pride, Negligence, Su<g ref="char:EOLhyphen"/>perſtition,
+Schiſme,</hi> and (that Harbinger of Deſtruction) <hi>Secu<g ref="char:EOLhyphen"/>rity</hi>
+have ſo long been gathering, and now <hi>ſetled</hi> in her, that ſhe
+cannot, without long time, and much difficulty, (or elſe eſpeci<g ref="char:EOLhyphen"/>all
+providence and divine mercy) be reſtored; For the haſtning
+whereof, accurſed be that unworthy <hi>Member</hi> that ſhall not ap<g ref="char:EOLhyphen"/>ply
+the utmoſt of his endeavour, and diligence; and, not returne
+the beſt of thoſe <hi>Abilities,</hi> he ſuckt from her in <hi>health,</hi> to her ad<g ref="char:EOLhyphen"/>vantage,
+in this her great and deplorable <hi>extremity</hi> of Di<g ref="char:EOLhyphen"/>ſtemper.</p>
+            <p>The wearyed Phyſitian, (after his many fruitleſſe experiments
+upon a <hi>conſuming</hi> Body) adviſes his drooping Patient to the <hi>place
+of his birth,</hi> to draw that Ayre, he was firſt bred in: The likelyeſt
+way to recover our <hi>languiſhing</hi> Church, is to reduce her to her
+firſt <hi>Conſtitutions,</hi> that ſhe may draw the <hi>breath</hi> of her firſt
+Principles; from whence having made ſo long a <hi>journey,</hi> her
+returne muſt take the <hi>longer</hi> time.</p>
+            <p>The Phyſitian requires not his crazie Patient to take his Pro<g ref="char:EOLhyphen"/>greſſe
+thither in a rumbling <hi>Coach,</hi> or a rude <hi>Waggon,</hi> (they are
+too full of motion for a reſtleſſe body) nor to ride <hi>Poſte,</hi> (the
+ſwiftneſſe of the paſſage makes too ſudden an alteration of the
+Climate) but in an eaſie-going <hi>Litter,</hi> the ſlowneſſe of whoſe
+pace might give him a <hi>graduall</hi> change of Ayre.</p>
+            <p>The ſafeſt way to <hi>reduce</hi> our languiſhing Church to her firſt
+Conſtitution, is to avoid all unnaturall <hi>Commotions,</hi> and <hi>violence</hi>
+in her paſſage; and carefully to decline all <hi>ſudden alterations,</hi>
+               <pb n="3" facs="tcp:110960:3"/>
+which cannot be without imminent <hi>danger,</hi> and to uſe the <hi>peace<g ref="char:EOLhyphen"/>ableſt</hi>
+meanes that may be, that nothing in her journey may <hi>in<g ref="char:EOLhyphen"/>terrupt</hi>
+her, and prove too prejudiciall to her <hi>journyes end.</hi>
+            </p>
+            <p>The <hi>diſeaſe</hi> of our diſtempered Church, (God be praiſed) hath
+not as yet taken her principall parts; Her doctrine of Faith is
+<hi>ſound;</hi> The Diſtemper onely lyes in her <hi>Diſcipline</hi> and <hi>Govern<g ref="char:EOLhyphen"/>ment;</hi>
+which hath, theſe many yeeres, been breeding, and now,
+broken forth, to the great diſhonour of (her <hi>Myſticall Head)</hi>
+Chriſt Jeſus; to the unhappy interruption of her owne Peace,
+<hi>(the Legacie of our bleſſed Saviour;)</hi> to the great diſquiet of our
+gracious Soveraigne, <hi>(her Faiths Defender)</hi> to the ſharp afflicti<g ref="char:EOLhyphen"/>on
+of his loyall Subjects, <hi>(her faithfull ſervants)</hi> and to the ut<g ref="char:EOLhyphen"/>ter
+ruine and deſtruction of this Kingdome, <hi>(the peacefull Palace
+of her Glory.)</hi>
+            </p>
+            <p>1. As for her <hi>Diſcipline;</hi> In the happy dayes of <hi>Edward</hi> the
+ſixt, when all the <hi>Romiſh</hi> Rubbiſh and Trumpery was ſcavengerd
+out of this (the new <hi>Reformed)</hi> Church, and the wholeſome <hi>do<g ref="char:EOLhyphen"/>ctrine</hi>
+of undubitable Truth was joyfully received into her gates,
+(being for many yeeres clos'd with <hi>Ignorance</hi> and <hi>Error)</hi> the
+piety and providence of her newly choſen <hi>Governours,</hi> (whoſe
+ſpirituall Ab<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lities, and valour, were, after, characterd in their
+owne <hi>blood)</hi> thought good, in the firſt place, to make Gods <hi>Wor<g ref="char:EOLhyphen"/>ſhip</hi>
+the ſubject of their holy Conſideration; To which end, they
+met, and (finding in the Scriptures no expreſſe forme of <hi>Evan<g ref="char:EOLhyphen"/>gelicall
+Diſcipline</hi> in each particular, and therefore concluding,
+it was left as a thing <hi>indifferent,</hi> to be inſtituted according to
+the Conſtitutions of every Kingdome where Religion ſhould
+be eſtabliſht) they adviſed, what <hi>Diſcipline</hi> might beſt con<g ref="char:EOLhyphen"/>duce
+to the <hi>glory</hi> of God and the <hi>benefit</hi> of his people; They,
+firſt, debated, and put to the queſtion, <hi>Whether the old Lytur<g ref="char:EOLhyphen"/>gie
+ſhould be corrected and purged,</hi> or <hi>whether a New ſhould be
+contrived.</hi>
+            </p>
+            <p>
+               <hi>Cranmer,</hi> then Archbiſhop of <hi>Canterbury,</hi> a pious, moderate,
+and learned <hi>Father</hi> of the Church, (and not long after a glorious
+Martyr) finding, that the <hi>old Lyturgie</hi> had ſome things in it deri<g ref="char:EOLhyphen"/>ved
+from the <hi>Primitive</hi> Church, (though in many things corrup<g ref="char:EOLhyphen"/>ted)
+conceived it moſt fitting for the <hi>peace</hi> of the Church, not to
+<pb n="4" facs="tcp:110960:4"/>
+ſavour ſo much of the ſpirit of <hi>contradiction,</hi> as utterly to aboliſh
+it, becauſe the <hi>Papiſts</hi> uſed it; but, rather, enclined to have the old
+Garden weeded, the Errors expunged; thereby, to gaine ſome
+of the <hi>moderater</hi> ſort of that Religion to a <hi>Conformity:</hi> But <hi>Ridly</hi>
+Biſhop of London, a man though very pious, yet of a <hi>quicker</hi> ſpi<g ref="char:EOLhyphen"/>rit,
+and more violent, (and not many yeares after ſuffering <hi>Mar<g ref="char:EOLhyphen"/>tyrdome</hi>
+too) enclined to a <hi>contrary</hi> Opinion, rather wiſhing a
+totall <hi>abolition</hi> of the old Liturgie, and a new to be ſet up, leſt the
+tender <hi>Conſciences</hi> of ſome ſhould be offended.</p>
+            <p>The buſineſſe being thus controverted, it was at length voted
+for the purging of the <hi>old;</hi> to which ſervice were appointed
+<list>
+                  <item>Doctor Cranmer <hi>Archbiſhop of</hi> Canterbury.</item>
+                  <item>Doctor Goodrick Bishop of Ely.</item>
+                  <item>Doctor Skip Bishop of Hereford.</item>
+                  <item>Doctor Thirlby Bishop of Weſtminſter.</item>
+                  <item>Doctor Day Bishop of Chicheſter.</item>
+                  <item>Doctor Holbeck Bishop of Lincoln.</item>
+                  <item>Doctor Ridley Bishop of Rocheſter.Martyr. after B. of London.</item>
+                  <item>Doctor <hi>Cox</hi> King EDWARDS <hi>Almoner.</hi>
+                  </item>
+                  <item>Doctor Taylor Deane of Lincoln. Martyr.</item>
+                  <item>Doctor Heynes Deane of Exceter.</item>
+                  <item>Doctor RedmanDeane of Weſtminſter.</item>
+                  <item>Maſter <hi>Robinſon</hi> Archdeacon of <hi>Leyceſter.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Menſe <hi>Maio</hi> 1549. Anno Regni <hi>Edwardi</hi> ſexti tertie.</p>
+            <p>
+               <pb n="5" facs="tcp:110960:4"/>
+Whereof three were famous <hi>Martyrs;</hi> and the reſt, men
+of unqueſtionable <hi>ſanctity, ſoundneſſe,</hi> and <hi>learning;</hi> which,
+being done, was authorized by <hi>Act of Parliament</hi> in that
+bleſſed Kings reigne <hi>Edw.</hi> 6. and with a full <hi>Conſent</hi> received into
+the Church of England, confirmed by divers Acts of Parl. in the
+dayes of Qu. <hi>Eliz.</hi> King <hi>Iames,</hi> and King <hi>Charles,</hi> our now gra<g ref="char:EOLhyphen"/>cious
+Soveraigne, <hi>whom Almighty God long preſerve.</hi>
+            </p>
+            <p>But this eſtabliſht Diſcipline, had no ſooner <hi>being,</hi> but <hi>ene<g ref="char:EOLhyphen"/>mies,</hi>
+(of which ſort the devill hath alwayes inſtruments to nip
+the <hi>Plants</hi> of Religion in the Bud) whoſe number, daily ſince,
+encreaſing, grew hotter and hotter in <hi>oppoſition,</hi> and ſtronger and
+ſtronger in <hi>faction,</hi> being too long, for peace ſake, conniv'd at;
+and, at laſt, too <hi>unſeaſonably,</hi> and <hi>violently</hi> oppoſed, inſomuch
+that the <hi>diſeaſe,</hi> in theſe our late dayes, grew too powerfull for
+the <hi>Remedy;</hi> ſo that the Diſtemper of our Church, in that reſpect,
+is growne ſo high, that I feare <hi>Phlebotomy</hi> will rather produce a
+further <hi>languiſhment</hi> (being already come to Madneſſe) then a
+<hi>Cure.</hi>
+            </p>
+            <p>Nay, ſo far have the <hi>Enemies</hi> of this eſtabliſht Government
+and Diſcipline, given way to their exorbitant and refractory <hi>Opi<g ref="char:EOLhyphen"/>nion,</hi>
+that they will neither allow the <hi>Matter,</hi> nor the <hi>Forme,</hi> nor
+the Authority and teſtimony of the <hi>Compoſers.</hi>
+            </p>
+            <list>
+               <item>1. Not the <hi>Matter;</hi> (though they cannot but acknowledge it,
+in the generall, to be very good, yet) becauſe it was unſanctified
+by <hi>ſuperſtitious</hi> lips.</item>
+               <item>2. Not the <hi>Forme;</hi> becauſe ſet, and compoſed by <hi>Humane</hi>
+Invention.</item>
+               <item>3. Not the <hi>Compoſers;</hi> becauſe <hi>Biſhops,</hi> and ſo (though <hi>Mar<g ref="char:EOLhyphen"/>tyrs</hi>
+for the Cauſe of God and his true Religion) Members of
+<hi>Antichriſt.</hi>
+               </item>
+            </list>
+            <p>1. As for their <hi>Exceptions</hi> againſt the Matter; how ridicu<g ref="char:EOLhyphen"/>lous
+they are, let <hi>Reaſon</hi> judge: Have not ſuperſtitious tongues,
+and eyes, viewed and read the <hi>Scriptures</hi> in their very Originall
+and purity? Shall therefore the Scriptures be diſallowed? Have
+not ſuperſtitious perſons profaned our Churches with their Po<g ref="char:EOLhyphen"/>piſh
+<hi>Doctrines, Sacraments</hi> and <hi>Ceremonies?</hi> and ſhall our Chur<g ref="char:EOLhyphen"/>ches
+therefore be cryed downe, or ſhut againſt the <hi>Ordinances</hi> of
+<pb n="6" facs="tcp:110960:5"/>
+God? becauſe thoſe Poets were <hi>Heatheniſh,</hi> was S. <hi>Paul</hi> afraid
+to uſe their ſayings? Was the Spirit of God too blame, to <hi>endite</hi>
+them? Good things, abuſed, worke evill effects upon the
+<hi>abuſers;</hi> but loſe not their goodneſſe by the <hi>Abuſe.</hi>
+            </p>
+            <p>2. As for their <hi>Exceptions</hi> againſt the Forme, being ſet, and
+not conceived, the <hi>Authority</hi> of the Scriptures I hope will
+anſwer.</p>
+            <p>God the <hi>Father</hi> warrants it: God the <hi>Son</hi> preſcribes it: God
+the <hi>holy Ghoſt</hi> allowes it.</p>
+            <p>1. God the Father <hi>warrants</hi> it, in the Old Teſtament, at the
+time of the <hi>Law,</hi> by his command to <hi>Moſes, Numb.</hi> 6. 21. where
+he gives him a <hi>ſet forme</hi> and words to bleſſe the people, <hi>The Lord
+bleſſe thee and keep thee, the Lord make his face to ſhine upon thee,
+and be gracious unto thee.</hi>
+            </p>
+            <p>2. God the Sonne <hi>preſcribes</hi> it in the New Teſtament, in the
+time of the <hi>Goſpel:</hi> When S. <hi>Iohn</hi> the Baptiſt had taught his Diſ<g ref="char:EOLhyphen"/>ciples
+to <hi>pray,</hi> the Diſciples of Jeſus Chriſt (whoſe houſe was
+called the houſe of Prayer) humbly requeſted the ſame <hi>boone</hi>
+from him, who preſcribed them that <hi>Forme</hi> which he had for<g ref="char:EOLhyphen"/>merly
+uſed in the end of his Sermon, <hi>Mat.</hi> 6. 9. which he inten<g ref="char:EOLhyphen"/>ded
+not as a <hi>Model,</hi> (as ſome would have it) but a very <hi>Prayer</hi>
+it ſelfe, to be uſed in thoſe very words, as they were delivered
+<hi>Luke.</hi> 11. 2. not, <hi>After this manner,</hi> but, <hi>when ye pray,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſay.</hi>
+            </p>
+            <p>That he will'd the ſame words to be uſed, is evident; For his
+Diſciples would be taught, as <hi>Iohn</hi> taught his: And how were
+they taught? S. <hi>Iohn</hi> taught them the <hi>words</hi> onely; he could not
+give them the <hi>Spirit</hi> to make an <hi>extemporary deſcant</hi> upon them.
+So that being a direct <hi>Set Forme,</hi> it warranted <hi>Set Formes,</hi> which
+were uſed from the beginning of the <hi>Primitive Church;</hi> from
+whence, this part of our <hi>Diſcipline</hi> had her originall.</p>
+            <p>3. God the holy Spirit <hi>allowes</hi> it: Who dare queſtion, that the
+<hi>holy Spirit</hi> inſpired S. <hi>Paul</hi> in all his Epiſtles, written to the
+Churches? In all which Epiſtles he concludes with this one
+Prayer, <hi>The grace of our Lord Ieſus Chriſt, &amp;c.</hi>
+            </p>
+            <p>3. As for their <hi>exceptions</hi> againſt the Compoſers of this <hi>Ly<g ref="char:EOLhyphen"/>turgie,</hi>
+who were no leſſe then holy Martyrs, (and by <hi>Fire-light</hi>
+ſaw more <hi>Revelations</hi> then theſe Objectors did by day-light)
+<pb n="7" facs="tcp:110960:5"/>
+men of approved learning and true piety: though ſome have im<g ref="char:EOLhyphen"/>pudence
+and <hi>ſpirituall pride</hi> enough, to think their owne abilities
+and <hi>inſpirations</hi> to flye a higher pitch; and Ignorance enough,
+to acknowledge greater <hi>knowledge</hi> in themſelves, yet the moſt
+humble, able, and truly ſanctified minds, have alwayes had <hi>Mar<g ref="char:EOLhyphen"/>tyrdome</hi>
+in ſo high reverence, that they conclude, that God that
+made their blood the <hi>ſeed</hi> of the Church, and gave them the cou<g ref="char:EOLhyphen"/>rage
+and honour <hi>to dye</hi> in the maintenance of the Truth, would
+not permit that ſeed to bring forth ſuch <hi>darnel</hi> of ſuperſtition; or
+them, to die guilty of thoſe <hi>Errors,</hi> they ſo reſolutely cryed down
+with their <hi>dying blood.</hi>
+            </p>
+            <p>2. As for her government by <hi>Epiſcopacie,</hi> (the extirpation wherof
+being a great addition to her <hi>Diſtemper)</hi> It hath as much or more
+<hi>Ius Divinum</hi> to plead, then that, which endeavours to demoliſh
+&amp; ſucceed it, <hi>Presbyterie;</hi> Both are <hi>but mentioned</hi> in the Scripture,
+at large; but no <hi>particular</hi> Rules for the executing the office of
+<hi>either;</hi> which, being left wholly as <hi>arbitrary,</hi> it reſts in the pow<g ref="char:EOLhyphen"/>er
+of the <hi>Supreme Magiſtrate</hi> (whom God hath conſtituted his
+<hi>Vicegerent)</hi> to chooſe, and eſtabliſh, which may beſt be found
+<hi>conſiſtent</hi> with the Conſtitutions of the Kingdome, and ſtand to
+moſt advantage with the <hi>civil</hi> Government.</p>
+            <p>But admit the Civil Government will ſtand with <hi>either?</hi>
+When the Balances ſtand <hi>eavenly poiſed,</hi> the leaſt Grain turns it.
+In things indifferent, the ſmalleſt <hi>circumſtance</hi> caſts it.</p>
+            <p>This <hi>Iſland</hi> of Britaine (if we look back above 1400 yeares,
+being a long <hi>Preſcription)</hi> when ſhe firſt received the Faith, was
+then governed by King <hi>Lucius,</hi> whom God made a great <hi>Inſtru<g ref="char:EOLhyphen"/>ment</hi>
+for reducing of this Kingdome from <hi>Paganiſme;</hi> who, ſen<g ref="char:EOLhyphen"/>ding
+to Rome, and accommodated from thence with two <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi>
+and learned Divines, by their labours, and Gods aſſiſtance
+upon them, planted the <hi>Goſpel:</hi> At the beginning of which plan<g ref="char:EOLhyphen"/>tation
+<hi>Arch-Flamins</hi> and <hi>Flamins</hi> were put downe, and in their
+roome <hi>Archbiſhops</hi> and <hi>Biſhops</hi> were introduced; which Go<g ref="char:EOLhyphen"/>vernment
+<hi>ſucceſſively</hi> continued, and flouriſht through the reigns
+of many wiſe Princes, confirmed by many Acts of Parliament,
+ſince the <hi>Reformation;</hi> exerciſed and approved by holy Martyrs;
+and allowed of, as moſt fitting, untill the yeare of our Lord 1641.
+<pb n="8" facs="tcp:110960:6"/>
+At which time, multitudes of the <hi>lower ſort</hi> of people, throughout
+this Kingdome, petitioned, and tumultuouſly troubled the <hi>Parli<g ref="char:EOLhyphen"/>ament,</hi>
+ſo that ſome of the Members, perchance according to their
+<hi>inclination,</hi> and others, for quietneſſe ſake, conſented to the <hi>abo<g ref="char:EOLhyphen"/>lition</hi>
+and <hi>extirpation</hi> of Epiſcopacy, the unadviz'd <hi>Contents</hi> of
+their clamorous Petitions.</p>
+            <p>Now if theſe Governments Hierarchicall and Presbyteriall
+be <hi>indifferent;</hi> theſe Circumſtances, (Firſt, of the <hi>time,</hi> when
+Epiſcopall Government began; Secondly, of the <hi>unintermiſ<g ref="char:EOLhyphen"/>ſive</hi>
+continuance, for ſo many Ages; Thirdly, the <hi>credit of the per<g ref="char:EOLhyphen"/>ſons</hi>
+confirming and approving it) me thinks, ſhould caſt ſuch a
+kind of <hi>neceſſity</hi> upon it, that the other (being an <hi>untry'd</hi> Govern<g ref="char:EOLhyphen"/>ment,
+and having no <hi>conſent</hi> or <hi>approbation</hi> from the Supreme
+Magiſtrate; and, being onely cryed in by the <hi>Ignorant</hi> multitude,
+affected to novelties and change) ſhould have no <hi>wiſe</hi> friend to
+plead for it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label>
+               <hi>We reade in the Scriptures of</hi> Elders <hi>(which are members of
+a</hi> Presbyterie) <hi>as it is written,</hi> Titus 1. 5. For this cauſe I left thee
+in Creete that thou ſhouldeſt ſet in order things that are wanting,
+and ordaine Elders in every City, as I had appointed thee. <hi>Alſo,</hi>
+1 Pet. 5. 1. The Elders which are among you, I exhort, who am alſo
+an Elder. <hi>By which it appears, that</hi> Titus <hi>had inſtructions to
+ſet up a</hi> Presbyterie.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> You take the Scriptures by ſnatches: Had you read in <hi>Titus</hi> the
+<hi>next</hi> verſe following but one, you would have had Saint <hi>Pauls
+meaning</hi> with his words, <hi>viz. ver. 7. For a Biſhop muſt be blame<g ref="char:EOLhyphen"/>leſſe,
+as the ſteward of God, not ſelfe-willed, &amp;c.</hi> So that, it plainly
+appeares, that <hi>Elders</hi> mentioned in the 5. verſe, are expounded
+<hi>Biſhops</hi> in the 7. Or, had you compared Saint <hi>Peters firſt</hi> verſe
+(before mentioned) with his <hi>fift</hi> in the ſame Chapter, you would
+have found Elders no <hi>poſitive,</hi> but a <hi>relative</hi> word; no <hi>Office,</hi> but
+a degree of <hi>Age. Ver. 5. Likewiſe the younger ſubmitting them<g ref="char:EOLhyphen"/>ſelves
+to the elder;</hi> the Apoſtle here ſhewing, what the behaviour
+of the <hi>Elder</hi> Miniſters ſhould be towards God, and of the <hi>younger</hi>
+towards them. So that if either of them had ſet up a <hi>Presbyterie,</hi>
+it was ſuddenly pulled downe againe; and <hi>Epiſcopacie</hi> (which
+you ſo much diſlike) placed in the roome.</p>
+            <p>
+               <pb n="9" facs="tcp:110960:6"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label>
+We are ſo far from <hi>diſliking</hi> Biſhops, that where there is one,
+we deſire there were twenty; nay that every Church in <hi>England</hi>
+and <hi>Ireland</hi> had a ſeverall Biſhop; <hi>Dioceſan</hi> Biſhops we diſlike,
+<hi>Parochiall</hi> we allow.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> How ſuddenly (to croſſe a ſetled and warranted eſtabliſhment)
+your <hi>windmill</hi> fancies can make an <hi>alteration. Titus, c.</hi> 1. 5. had a
+co<g ref="char:cmbAbbrStroke">̄</g>mand from S. <hi>Paul</hi> to ordain Elders in <hi>every City,</hi> (which he
+interprets <hi>Biſhops)</hi> not in every <hi>Church</hi> or <hi>Pariſh;</hi> which <hi>Ordi<g ref="char:EOLhyphen"/>nance,</hi>
+the Church of England hath punctually obſerved from the
+<hi>Primitive</hi> times to <hi>this</hi> day. But you have refractory and gaine<g ref="char:EOLhyphen"/>ſaying
+ſpirits, ſpirits of contradiction, that underſtand not the
+Scriptures, but by your owne Interpretations; alwayes ſtirring,
+but never ſetled; hating <hi>order,</hi> deſpiſing <hi>Government,</hi> and reſiſting
+all <hi>Authority.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> But this <hi>Epiſcopall</hi> Government had her <hi>originall</hi> from Rome;
+and being poyſoned in the <hi>Root,</hi> it cannot be wholſome in the
+<hi>Branch.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Ignorance is the <hi>mother</hi> of all Error. Your <hi>Chronologie</hi> failes
+you: If you carefully ſearch <hi>Antiquities,</hi> you will find your <hi>Ob<g ref="char:EOLhyphen"/>jection</hi>
+againſt it, a good <hi>Argument</hi> for it. I confeſſe Epiſcopacie
+had her <hi>Originall</hi> partly from Rome; but, in thoſe dayes, when
+we conformed according to the <hi>Church</hi> of Rome, the Church of
+Rome conformed according to the <hi>Word</hi> of God. Rome was,
+then, part of the <hi>Primitive</hi> Church, not being above 187. yeares
+after Chriſt: The <hi>Biſhops</hi> of Rome were ſo far then from being
+<hi>Antichriſts,</hi> that moſt of them were <hi>Martyrs,</hi> and dyed for
+<hi>Chriſt.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> But our Biſhops have too great <hi>Revenues;</hi> whereby, they are
+occaſioned to <hi>Riot, pomp,</hi> and <hi>glory.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Thoſe Princely <hi>Benefactors</hi> (whoſe bountifull <hi>Pieties</hi> thought
+nothing too much for Gods <hi>Ambaſſadours,</hi> and therefore enlar<g ref="char:EOLhyphen"/>ged
+their <hi>Revenues</hi> ſo much) well knew their <hi>places</hi> and callings
+requir'd it; whoſe gates were to be <hi>open</hi> to all commers; and
+<hi>bread</hi> to be given to all that wanted. Their Places owe <hi>reliefe</hi>
+to the fatherleſſe; <hi>comfort</hi> to the widow; <hi>ſupplies</hi> to the needy;
+and <hi>ſuccour</hi> to all that are afflicted; and <hi>hoſpitality</hi> to all ſtran<g ref="char:EOLhyphen"/>gers.
+No, their great Revenues are greater <hi>Eye-ſores</hi> then <hi>Incon<g ref="char:EOLhyphen"/>veniences,</hi>
+if not abuſed.</p>
+            <p>
+               <pb n="10" facs="tcp:110960:7"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label>
+But theſe great Revenues might have been <hi>decimated,</hi> and the
+<hi>Tenth part</hi> might have ſufficiently maintained a <hi>preaching Mini<g ref="char:EOLhyphen"/>ſtry,</hi>
+and the <hi>nine</hi> other parts might have been added to the Kings
+<hi>Revenues,</hi> which <hi>would have made him the richeſt and moſt glori<g ref="char:EOLhyphen"/>ous
+King in Chriſtendome,</hi> and taken away the neceſſity of <hi>Subſi<g ref="char:EOLhyphen"/>dies</hi>
+from the Subject.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> This is <hi>robbing Peter</hi> to <hi>pay Paul;</hi> beggering the <hi>Keyes</hi> to in<g ref="char:EOLhyphen"/>rich
+the <hi>Sword,</hi> and the next way to bring a <hi>Curſe</hi> upon the King,
+and all his people in generall, by a generall guilt of <hi>Sacriledge.</hi>
+The <hi>Shewbread</hi> muſt not be eaten but upon more neceſſity then
+(God be thanked) His Majeſty was at that time put to. <hi>The holy
+Oyle</hi> muſt not be put unto a <hi>Civil</hi> uſe; But His Majeſties pious
+and reſolute <hi>refuſall</hi> thereof hath in one word, fully and fairely
+anſwered this Objection.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> But Biſhops have <hi>too abſolute</hi> a power, which gives them oc<g ref="char:EOLhyphen"/>caſion
+and opportunity to be <hi>tyrannicall,</hi> and to exerciſe an <hi>arbi<g ref="char:EOLhyphen"/>trary</hi>
+Juriſdiction over their Brethren.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> From the <hi>beginning,</hi> I confeſſe, it was not ſo; neither ſtands it
+with <hi>wiſdome</hi> or <hi>policy</hi> to ſuffer it to be ſo: For the Government
+of the Church muſt have <hi>proportion</hi> with the Government of the
+State: Government of <hi>ſeverall</hi> natures in one Nation, breeds <hi>con<g ref="char:EOLhyphen"/>fuſion;</hi>
+and that, <hi>ruine:</hi> We therefore being a <hi>mixt</hi> Monarchy,
+neceſſarily require a <hi>mixture</hi> likewiſe in the Hierarchy; which
+excludes all <hi>arbitrary</hi> power.</p>
+            <p>It is true, <hi>abſolute</hi> Monarchy, and an <hi>unlimited</hi> Hierarchy are
+apt to fall into the diſtemper of <hi>Tyrannie;</hi> and Democracie and a
+<hi>parity</hi> in Government is as apt to run into the diſeaſe of <hi>Tumult;</hi>
+but of the two evils, Tyrannie is the <hi>leaſt,</hi> by how much it is the
+eaſier to be <hi>cured.</hi> A monſter with <hi>one</hi> head is ſooner overcome
+then a <hi>Hidra</hi> with many. If our Hierarchy hath ſlipt into this <hi>ir<g ref="char:EOLhyphen"/>regularity,</hi>
+it is great wiſdome and reaſon for a Parliament to
+<hi>rectifie</hi> it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> But the King having the <hi>ſole</hi> Election of Biſhops, and ſo much
+favouring them, will hardly conſent to the abridgement of their
+<hi>power</hi> and <hi>greatneſſe;</hi> ſo that, being his <hi>Creatures,</hi> their power
+will be upheld by him, to the end that upon any <hi>difference</hi> betwixt
+him and his people, they may be the more able to uphold him,
+<pb n="11" facs="tcp:110960:7"/>
+and ready to make a ſtrong <hi>party</hi> for him; ſo that the more their
+<hi>power</hi> is weakned, the leſſe his <hi>party</hi> will be prevalent, whereby,
+his <hi>Prerogative</hi> may want Advocates, and the <hi>Liberty</hi> of the Sub<g ref="char:EOLhyphen"/>ject
+no enemies.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> His Majeſty, by his yeelding to the <hi>Bill</hi> of taking away their
+<hi>Votes</hi> in Parliament, hath given a ſufficient Earneſt of a further
+<hi>Moderation</hi> of their power; and no queſtion, was, and will be
+ready to hearken to this or ſuch like humble and reaſonable <hi>Peti<g ref="char:EOLhyphen"/>tions</hi>
+(for the extirpating this jelouſie) <hi>viz.</hi> That when any Bi<g ref="char:EOLhyphen"/>ſhop
+<hi>dyes,</hi> or is tranſlated, he would give liberty to the whole
+<hi>Clergie</hi> and <hi>Freeholders</hi> of thoſe Dioceſſes to chooſe, nominate &amp;
+preſent <hi>foure</hi> learned and religious Divines, moſt <hi>unblameable</hi> in
+life and doctrine, able for <hi>government,</hi> and diligent in <hi>preaching:</hi>
+Of which foure, His Majeſty to prick <hi>one,</hi> which may be conſecra<g ref="char:EOLhyphen"/>ted
+<hi>Biſhop of the Dioces;</hi> By which meanes, both His Majeſty
+and His People, having an <hi>intereſt</hi> in him, he will be equally en<g ref="char:EOLhyphen"/>gaged;
+who, in caſes of <hi>difference,</hi> may become rather a <hi>Medi<g ref="char:EOLhyphen"/>ator</hi>
+then <hi>Partaker:</hi> and, receiving juſt power from the <hi>King,</hi>
+may execute it as uprightly amongſt his <hi>people.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label>
+               <hi>But they are</hi> Lords, <hi>and lord it over Gods</hi> Inheritance: <hi>Where<g ref="char:EOLhyphen"/>as,</hi>
+1 Pet. 5. 3. <hi>forbids it,</hi> Be not Lords over Gods inheritance:
+<hi>and Chriſt,</hi> Luk. 2<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 25. <hi>ſayes,</hi> The Kings of the earth exerciſe
+Lordſhip, but it ſhall not be ſo with you.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Our Biſhops were Lords, as they were <hi>Peeres</hi> of the Land, and
+as Peeres, they had <hi>Votes</hi> in Parliament; which, being <hi>taken a<g ref="char:EOLhyphen"/>way,</hi>
+they are no more, now, then what the dignity of their Cal<g ref="char:EOLhyphen"/>ling
+and their owne Merits make them. As for that place in S.
+<hi>Peter,</hi> thus it is meant; <hi>Ye ſhall not be Lords over Gods inheritance,</hi>
+that is, Tyrants; <hi>Lords</hi> and <hi>Rulers</hi> being at that time none but
+<hi>Heathens</hi> and <hi>Perſecutors,</hi> whoſe tyrannie made the very name
+of <hi>Lord,</hi> terrible, and odious: So that, in that place, by Lordſhip
+is certainly meant <hi>Tyrannie.</hi> Neither can this imply a <hi>Parity</hi> in
+our Church; for without a <hi>Superiority,</hi> and <hi>Inferiority,</hi> there
+can be no Government: A Parity cannot be conſidered in <hi>order</hi> of
+Government; but, onely, in the <hi>work</hi> of the Miniſtry. In this, all
+are <hi>fellow labourers;</hi> In the other, ſome <hi>command,</hi> and ſome <hi>obeye</hi>
+S. <hi>Paul</hi> and <hi>Timothy</hi> had an eſpeciall <hi>command</hi> and charge over
+<pb n="12" facs="tcp:110960:8"/>
+other Miniſters. As for that place in S. <hi>Luke,</hi> which you all edge,
+The Diſciples ſtriving <hi>who ſhould be the greateſt among them,</hi> our
+bleſſed Saviours anſwer was to this effect, <hi>Let Kings exerciſe po<g ref="char:EOLhyphen"/>wer
+and authority over their vaſſals,</hi> (as indeed their tyrannie
+made them little better) but it ſhall be otherwiſe with you: You
+are all <hi>fellow-ſervants</hi> to me, that am your chiefe <hi>Lord</hi> and <hi>Biſhop
+of your ſoules;</hi> whilſt I am here, all ſuperiority lyes extinct:
+Chriſt was then the onely <hi>Governour,</hi> and the <hi>Root</hi> of Govern<g ref="char:EOLhyphen"/>ment
+was in him: But at his departure, he gave <hi>ſome to be Apo<g ref="char:EOLhyphen"/>ſtles,
+ſome to be Paſtors, &amp;c.</hi> and yet all thoſe degrees were <hi>equall</hi>
+in reſpect of the <hi>work:</hi> He himſelfe ſaid, <hi>Ye call me Lord, and ſo I
+am,</hi> and yet, <hi>Luk. 22. 27. I am among you as he that ſerveth:</hi>
+whereby it manifeſtly appeares, he intended a parity of the <hi>wor<g ref="char:EOLhyphen"/>kers</hi>
+in reſpect of the <hi>worke,</hi> not a parity in the <hi>government</hi> in re<g ref="char:EOLhyphen"/>ſpect
+of the <hi>workers.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> Biſhops (whoſe office is to promote <hi>Religion,</hi> and to advance
+the <hi>Goſpel,</hi> (as is pretended) and to encourage <hi>Preaching</hi> as the
+ordinary meanes conducing thereunto) are ſo far from <hi>ſo</hi> doing,
+that inſtead thereof, they ſilence godly <hi>Miniſters,</hi> and put downe
+<hi>weekly Lectures,</hi> which were ſet up at the proper <hi>charges</hi> and the
+<hi>piety</hi> of the people; and to the great <hi>eſtabliſhment</hi> of true Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Here lyes a <hi>Myſterie;</hi> being the moſt crafty advantage the
+devilever took of <hi>popular</hi> piety.</p>
+            <p>Admit the <hi>piety</hi> of the honeſt hearted People was the firſt <hi>mo<g ref="char:EOLhyphen"/>tive</hi>
+to theſe weekly Lectures, how was that piety <hi>abuſed,</hi> by
+thoſe weekly <hi>Lecturers?</hi> They were <hi>choſen</hi> by the people; their
+<hi>maintenance</hi> (conſiſting moſt of Gratuities) came from the peo<g ref="char:EOLhyphen"/>ple,
+which ebbed or flowed according as their <hi>Lunatick</hi> doctrines
+wrought upon the people. Thoſe Lecturers (whoſe whole ſub<g ref="char:EOLhyphen"/>ſiſtance
+thus proceeded from the people) muſt for their owne
+better lively hoods <hi>pleaſe</hi> the people: And what more pleaſing
+to the people then the preaching of <hi>Liberty?</hi> and how ſhould
+Liberty be enlarged, if not peeced with <hi>Prerogative?</hi> Then down
+goes <hi>Authority,</hi> and up goes <hi>Priviledge;</hi> Downe goes the <hi>Booke,</hi>
+and up goes the <hi>Spirit;</hi> Downe goes <hi>Learning,</hi> and up goes <hi>Re<g ref="char:EOLhyphen"/>velation;</hi>
+who gaining credit in the weak opinions of the <hi>vulgar,</hi>
+               <pb n="13" facs="tcp:110960:8"/>
+grew the <hi>Seminaries</hi> of all Ignorance, and the <hi>nurſing fathers</hi> of
+all Rebellion. Theſe are thoſe <hi>godly</hi> Lecturers that Biſhops put
+downe, who never loſt themſelves ſo much, as in not ſetting up
+<hi>better</hi> and more <hi>orthodox</hi> in their roomes, which had taken away
+the ground of this Objection.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> Our Biſhops being <hi>proud, idle, covetous,</hi> and <hi>Popiſhly</hi> affected,
+are therefore fit to be extirpated.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Admit ſome be ſo; therefore, ſuch, among them, as are
+<hi>humble, diligent, charitable,</hi> and enemies to <hi>Popery,</hi> periſh? Shall
+they that are <hi>bad,</hi> have more power to pull downe a ſetled Go<g ref="char:EOLhyphen"/>vernment,
+then they that be <hi>good,</hi> to keep it up? Did <hi>Moſes,</hi> the
+man of God, extirpate the Government of <hi>Prieſthood</hi> becauſe
+<hi>Aaron</hi> had a hand in the peoples <hi>Idolatry?</hi> Or, will you under<g ref="char:EOLhyphen"/>take
+that the Elders in a <hi>Presbyteriall</hi> Government ſhall be all
+faultleſſe? Let the <hi>guilty</hi> receive their reſpective puniſhments,
+and <hi>let others take their office:</hi> But the <hi>innocent</hi> to ſuffer with the
+<hi>guilty,</hi> is a point of high <hi>injuſtice.</hi>
+            </p>
+            <p>But admit this Government by Biſhops, had nothing to plead
+for it, neither <hi>preſcription,</hi> nor <hi>continuance</hi> without Intermiſſion,
+nor the <hi>Authority</hi> of Parliaments in all Ages, yet conſidering it
+is, now, a Government, in <hi>Being,</hi> it ſeemes not conſonant to
+Reaſon, or policy to <hi>extirpate</hi> it, or take it away, before an <hi>other</hi>
+Government be pitcht upon. To pull downe one maine <hi>Pillar,</hi>
+before another be made fit to ſupply the place, and to <hi>ſupport</hi> the
+roome, is the next way to pull the <hi>Roofe</hi> upon our heads: Hath
+not Epiſcopacie been long <hi>voted</hi> downe? And is not the Aſſem<g ref="char:EOLhyphen"/>bly,
+at this time, divided and in controverſie, nay puzzled what
+Government to ſet up in the <hi>roome</hi> of it? By which means, occa<g ref="char:EOLhyphen"/>ſion
+is adminiſtred to all <hi>diſorder,</hi> Liberty lyes open to all <hi>Schiſ<g ref="char:EOLhyphen"/>mes,
+Sects,</hi> and <hi>Hereſies,</hi> and Sectaries grow bold to vent their
+giddy headed opinions without controlment, confirming them<g ref="char:EOLhyphen"/>ſelves
+in their owne <hi>Errors,</hi> infecting others with their new fan<g ref="char:EOLhyphen"/>gled
+and itching <hi>doctrines,</hi> the nature whereof is (like a <hi>Tetter)</hi>
+to run, till it over-run the whole <hi>Body.</hi> (Have not our eyes be<g ref="char:EOLhyphen"/>held
+all this?) which if theſe unſetled times ſhould long conti<g ref="char:EOLhyphen"/>nue,
+(as God forbid) would gather ſuch head, and ſtrengthen this
+our <hi>confuſed</hi> Kingdome, that if her iſſue of blood were <hi>ſtopt</hi> in one
+<pb n="14" facs="tcp:110960:9"/>
+place, it would <hi>break forth</hi> in another; and, like <hi>Hercules</hi> his
+Monſter, if one head were <hi>ſtruck off,</hi> another would <hi>ariſe,</hi> to the
+utter confuſion of the true Proteſtant Religion, which already
+begins to be the leaſt part of this tottering Kingdoms profeſſion,
+and rather conniv'd at, then exerciz'd by ſome. Are not com<g ref="char:EOLhyphen"/>plaints
+preferd againſt <hi>Browniſts</hi> and <hi>Separatiſts,</hi>
+               <note place="margin">
+                  <hi>See a book Intituled,</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſumme of a <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at <hi>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> in <hi>Eſſex,</hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 11. 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>43.</note> unheard? Nay,
+are not men <hi>afraid</hi> to complain againſt them for feare of <hi>puniſh<g ref="char:EOLhyphen"/>ment?</hi>
+Have not profeſt Anabaptiſts challenged our Miniſters to
+<hi>diſpute</hi> with them in their owne open Churches? Have not their
+diſputations been <hi>permitted,</hi> nay, unadviſedly <hi>undertaken</hi> by ſome
+of our Miniſters, (who themſelves are though little better)
+wherein they have made many <hi>Proſelites,</hi> and left many of the
+vulgar (who judge the victory to the moſt words) <hi>indifferent?</hi>
+Have they not after their diſputations retired into their Innes, and
+private Iodgings, accompanyed with many of their <hi>Auditors,</hi> and
+all joyned together in their <hi>extemporary</hi> prayers for a bleſſing
+upon their late <hi>Exerciſe?</hi> How often hath <hi>Bow-river</hi> (which
+they lately have baptiz'd <hi>New Iordan)</hi> been witneſſe to their
+prophanations? How many daily make their private <hi>meetings,</hi>
+and aſſemble in the City of London to exerciſe their <hi>Miniſtery?</hi>
+How many have been convicted of Blaſphemy, and yet unpu<g ref="char:EOLhyphen"/>niſht?
+How many times have their <hi>witneſſes</hi> been taken againſt
+ſome of our moſt learned and religious Miniſters? for which,
+ſome, are <hi>plundered,</hi> ſome <hi>ſequeſtred,</hi> and ſome <hi>impriſoned:</hi> How
+many of our Miniſters whoſe ſeverity proceeded formerly againſt
+Fornicators, Adulterers, Drunkards, Swearers, and ſuch like,
+are now undone upon their <hi>revengefull</hi> witneſſes and teſtimony,
+appearing now (for the better colouring of their malice) <hi>well
+affected</hi> to the Cauſe? All which in time will ſo encourage all
+Sects, Factions, Hypocrites, and make Hereſie ſo bold, &amp; ſtrong
+in this Kingdome, that the true <hi>Proteſtant Religion</hi> will be (un<g ref="char:EOLhyphen"/>der
+the deteſtable name of <hi>Popery)</hi> even turned out of doores for
+company, or at leaſt ſo little favoured, that it will be forced to
+<hi>ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rowd</hi> it ſelfe in corners, as thoſe Sectaries did, before theſe trou<g ref="char:EOLhyphen"/>bles
+were.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> I, but when things are <hi>ſetled,</hi> and <hi>Iuſtice</hi> done upon the <hi>Popiſh</hi>
+Faction, theſe <hi>Sectaries</hi> with their Sects will vaniſh like the
+<pb n="15" facs="tcp:110960:9"/>
+Miſt before the <hi>mid day</hi> ſun, and a true <hi>reformed</hi> Religion will be
+eſtabliſht to us and our Poſterity.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> You ſeeme by this Objection but a young <hi>State Phyſitian,</hi> and
+a meere <hi>novice</hi> in the curing of a diſeaſe of this <hi>nature.</hi> In ſome
+caſes, where the <hi>undiſturbed</hi> humors keep their bounds, diſtem<g ref="char:EOLhyphen"/>pers
+are quickly <hi>evaporated,</hi> and being ſcatterd through the whole
+body, every part <hi>breathes</hi> out ſome, and Nature (being able to
+truckle with the <hi>diſeaſe)</hi> by her owne power, relieves her ſelfe;
+and, in a ſhort time, <hi>rectifies</hi> the Body: But upon a <hi>continuall</hi>
+confluence, and gathering head of <hi>lawleſſe</hi> humors, ſhe is ſo
+weakned; that ſhe hath no power to reſiſt, and leſſe heart to ſtrug<g ref="char:EOLhyphen"/>gle
+with her <hi>enemy,</hi> but is forced to yeeld: But the time you pre<g ref="char:EOLhyphen"/>fixe
+for the ſubduing of theſe numerous <hi>Sects,</hi> is, firſt, when all
+things are <hi>ſetled,</hi> ſecondly, when the Land is <hi>cleared</hi> of Pa<g ref="char:EOLhyphen"/>piſts.</p>
+            <p>1. For the firſt, It is all one as if you had ſaid, <hi>When the body
+is in good health, you will eaſily find a cure.</hi> A rare Phyſitian! In
+the meane while, you will connive at this continued <hi>confluence</hi>
+of humors, which makes it at length incureable.</p>
+            <p>2. As for the ſecond: Take heed while ye goe about to cure a
+<hi>Fever,</hi> you run not the Body Politick into a <hi>Dropſie,</hi> with too
+much <hi>Phlebotomie.</hi> But you will firſt cleare the Kingdome of
+<hi>Papiſts:</hi> And who be they? In your Accompt, all ſuch as ſtand
+for <hi>Epiſcopall</hi> Government, (a Government coetaneous with
+this our almoſt out-dated Religion) All ſuch as approve of the
+<hi>Book of Common Prayer,</hi> (a Forme eſtabliſht by many Acts of
+<hi>Proteſtant</hi> Parliaments) All ſuch as are paſſively obedient, and
+loyall to his Majeſty (a duty commanded by Gods own mouth.)
+Of the Clergie, all ſuch as will not preach for <hi>blood,</hi> (although
+Miniſters of the Goſpel of <hi>Peace.)</hi> All ſuch as will not take the
+<hi>Covenant,</hi> to ſuppreſſe Biſhops, (although they have formerly
+ſworn <hi>canonicall obedience</hi> to their Ordinary) All ſuch as wil not
+encourage Subjects to <hi>reſiſt</hi> the power of their naturall Prince,
+(although having taken the <hi>Oath of Allegeance,</hi> and the late <hi>Pro<g ref="char:EOLhyphen"/>teſtation.)</hi>
+And to conclude, all that have not <hi>contributed</hi> wil<g ref="char:EOLhyphen"/>lingly,
+bountifully, and continually to this Warre; and in a
+word, that have any <hi>conſiderable</hi> Eſtates to pick a hole in: If all
+<pb n="16" facs="tcp:110960:10"/>
+               <hi>Sects</hi> and <hi>Sectaries</hi> be not ſuppreſt till then, we are like to have a
+comfortable <hi>Reformation.</hi>
+            </p>
+            <p>But in caſe, you onely meane ſuch <hi>Papiſts</hi> as owne, and ac<g ref="char:EOLhyphen"/>knowledge
+the <hi>doctrine</hi> of the Church of Rome; Tell me, what
+courſe would you take with them?</p>
+            <p>Either you muſt <hi>baniſh</hi> them, or <hi>diſinherit</hi> them, or <hi>take away</hi>
+their lives.</p>
+            <p>1. If <hi>baniſh</hi> them; It muſt be done, either <hi>with</hi> the Kings
+conſent, or <hi>againſt</hi> it; If <hi>againſt</hi> it, you reſiſt the power, and <hi>he
+that reſiſteth ſhall receive damnation, Rom.</hi> 13. If <hi>with</hi> it, you
+make the King guilty of <hi>perjury,</hi> who hath ſworne to <hi>protect all</hi>
+his Subjects in his <hi>Coronation Oath.</hi>
+            </p>
+            <p>2. If <hi>diſinherit</hi> them; It muſt be done, either <hi>according</hi> to the
+known Lawes of the Kingdome, or <hi>againſt</hi> them; According to
+the Lawes, ye cannot; for there is no Law for it. If againſt them,
+you tranſgreſſe what you pretend to maintaine in all your <hi>De<g ref="char:EOLhyphen"/>clarations.</hi>
+            </p>
+            <p>3. If <hi>take away</hi> their lives, It muſt be done, either <hi>for</hi> a Cauſe,
+or <hi>without</hi> a Cauſe; If for a <hi>Cauſe,</hi> ſhew it, that the world may
+be ſatisfied: If without a <hi>Cauſe,</hi> you are guilty of <hi>murther.</hi>
+            </p>
+            <p>Which courſe ſoever ye take, you have not Chriſt for your <hi>ex<g ref="char:EOLhyphen"/>ample,</hi>
+who quietly ſuffered the two <hi>Caeſars,</hi> being <hi>Idolaters,</hi> not
+onely to poſſeſſe that Kingdome, but to <hi>uſurp</hi> it, becauſe God per<g ref="char:EOLhyphen"/>mitted
+them, and <hi>permiſſively</hi> placed them there: When the Diſ<g ref="char:EOLhyphen"/>ciples
+askt our bleſſed Saviour, <hi>Didſt not thou ſow good wheat?
+Whence commeth it that there be tares?</hi> His anſwer was, <hi>The evil
+one hath done it.</hi> His pleaſure being demanded, whether they
+ſhould <hi>weed</hi> them up? his Reply was, No, <hi>Let them alone untill
+the harveſt,</hi> and then he would ſeparate them.</p>
+            <p>A good deed may be ill done, when either againſt <hi>command,</hi> or
+without <hi>warrant.</hi>
+            </p>
+            <p>Though God hath permitted the <hi>evill one</hi> to plant Papiſts a<g ref="char:EOLhyphen"/>mong
+us, yet he hath not authorized us to <hi>root</hi> them up, nor yet to
+take the lives of any, untill their actions come within the danger
+and compaſſe of the eſtabliſht <hi>Lawes</hi> of the Land.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> We have preſidents for the <hi>rooting out</hi> of Idolaters in the
+Scriptures; which warrant us to doe the like.</p>
+            <p>
+               <pb n="17" facs="tcp:110960:10"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label>
+You finde it no where, but in the time of the <hi>Law;</hi> at which
+time, God <hi>immediately</hi> commanded it; which kind of Warrants
+are now ceaſed.</p>
+            <p>Again, In the time of the Law, ſome were accompted <hi>Stran<g ref="char:EOLhyphen"/>gers,</hi>
+And ſtrangers had not the priviledges that <hi>brethren</hi> have<g ref="char:punc">▪</g>
+               <hi>Vſury was lawfull to be taken of ſtrangers,</hi> not of brethren: Now,
+in the times of the Goſpel, Chriſt hath made us all <hi>Brethren,</hi>
+and called us by his own name, <hi>Chriſtians:</hi> and what was <hi>law<g ref="char:EOLhyphen"/>full,</hi>
+then, to be done to ſtrangers, is <hi>unwarrantable,</hi> now, to be
+done to Chriſtians. <hi>We are brethren.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> Then Proteſtantiſme and Popery may be <hi>conſiſtent</hi> in one
+Kingdom, and Gods name may be harmeleſly prophaned with
+<hi>Idolatry</hi> and <hi>ſuperiſtition,</hi> in the ſame place, where it is <hi>truly</hi> and
+ſincerely worſhipt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Your inference is not good. It is one thing for a Prince to <hi>pro<g ref="char:EOLhyphen"/>tect</hi>
+his ſubjects; and an other to be <hi>partaker</hi> with them, or to al<g ref="char:EOLhyphen"/>low
+of their <hi>ſuperſtitions.</hi> Kings cannot enforce Conſciences,
+though pitcht upon a falſe Religion: All that Magiſtrates can do
+againſt them (unleſſe for <hi>Seducing,</hi> which a particular Statute made
+<hi>Treaſon)</hi> is to puniſh their <hi>purſes,</hi> for not obſerving his <hi>Statutes</hi>
+reſpectively, or for exerciſing their Religion <hi>contrary</hi> to his
+Lawes, But well it were if ſuch a <hi>neceſſity</hi> of Connivance had no
+ſuch ſubject to work upon.</p>
+            <p>How happy had it been for this unlucky kingdom, if his Maje<g ref="char:EOLhyphen"/>ſties
+moſt prudent and pious <hi>offer,</hi> two yeare ſince, propounded
+to us, had been accepted in this <hi>particular, That all the Children
+of his ſubjects of that Religion, ſhould be taken from them, and edu<g ref="char:EOLhyphen"/>cated
+in the Religion of the Church of England?</hi> By which means,
+the whole Kingdom, in a ſhort ſpace of time, would have been
+peaceably reduced to an <hi>Vnity</hi> in Doctrine; And, if the ſame courſe
+were taken with othe Strectaryes, an <hi>Vniformity</hi> in Diſcipline alſo.
+But our Kingdom muſt not expect an univerſall and through Re<g ref="char:EOLhyphen"/>formation
+in all particulars, till Catechiſmes be more ſtrictly
+uſed, and the entercourſe of Embaſſadours (which cannot ſimply
+be avoyded) and Legers be reſtrained; and ſtrict ſtatutes made
+and executed againſt <hi>ſectaries.</hi>
+            </p>
+            <p>But to returne to our firſt matter. Admit <hi>Epiſcopacy</hi> were a
+<pb n="18" facs="tcp:110960:11"/>
+Government, accidentally inconvenient, and that a <hi>more fitting</hi>
+Government, were diſcovered, prepared and made <hi>ready</hi> to be
+ſet up, It would be but a <hi>new untryed</hi> Government, and not expe<g ref="char:EOLhyphen"/>rimentally
+known what <hi>proportion</hi> it would beare without <hi>tem<g ref="char:EOLhyphen"/>porall</hi>
+Conſtitutions. A horſe may be well metled, and condi<g ref="char:EOLhyphen"/>tioned
+and every way commendable for the <hi>ſaddle;</hi> yet not draw
+well in a Coach or <hi>Chariot:</hi> A great part of our <hi>Common-Law</hi>
+is bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lt upon the <hi>Caſes</hi> of Biſhops, inſomuch that if that Govern<g ref="char:EOLhyphen"/>ment
+be changed, there muſt be a neceſſary <hi>alteration</hi> of many
+Lawes of the land; And what <hi>incovenience</hi> may ariſe from ſuch
+an Alteration, I leave to the Judgment of <hi>Lawyers,</hi> being not un<g ref="char:EOLhyphen"/>worthy
+of ſome Conſideration.</p>
+            <p>But let theſe things be accompted not <hi>Inconveniencyes,</hi> and
+that the Hierarchicall Government is fit to be <hi>demoliſhed,</hi> either
+for the abuſe of it, by ſome few exorbitant <hi>Prelates,</hi> or for the miſ<g ref="char:EOLhyphen"/>chiefes
+that follow, in reſpect of it <hi>ſelf,</hi> in that it adminiſters ſuch
+occaſion of <hi>offence,</hi> yet the <hi>too ſudden</hi> Execution of a buſines of ſo
+great <hi>aconſequence,</hi> and concernment, gives a livelyer teſtimony of
+<hi>paſſion</hi> then diſcretion, (if polititions may have credit) and ſa<g ref="char:EOLhyphen"/>vours
+of <hi>extremity,</hi> (which is oppoſite to all virtue,) and too
+much raſhneſſe, the <hi>diſtemper</hi> of all ſerious and honorable under<g ref="char:EOLhyphen"/>takings:
+Too ſudden an Alteration in matters of <hi>ſmall</hi> moment,
+paſſes not without ſome inconvenience; but, in things of ſuch a
+nature, as a <hi>Government,</hi> nay a <hi>Church</hi> government too (the <hi>nur<g ref="char:EOLhyphen"/>ſery</hi>
+of the whole kingdoms happineſſe or miſery) it cannot be
+without <hi>imminent</hi> danger; but the <hi>ſudden</hi> alteration of a <hi>funda<g ref="char:EOLhyphen"/>mentall</hi>
+government, of the Church (which neceſſarily carryes
+the ſtate with it) threatens, nay brings no leſſe then <hi>unavoydable
+ruine</hi> to both.</p>
+            <p>A Raſhnes, too much (we feare) reliſhing of private ends to
+demoliſh that government in <hi>twelve moneths,</hi> which hath been
+ſetting up and maintained by as wiſe generations as ours, above
+<hi>foureteen hundred yeares.</hi>
+            </p>
+            <p>How happy had it been for this (at that time proſperous, but
+now miſerable) kingdom, had we taken the advantage of (that
+greateſt <hi>bleſſing,</hi> that ever gracious Prince confered upon un<g ref="char:EOLhyphen"/>thankfull
+Subjects) the <hi>Trienniall Parliament,</hi> wherein, we
+<pb n="19" facs="tcp:110960:11"/>
+might every 3 years have inſpected this <hi>new recoverd</hi> Kingdome,
+and kept it alwayes in a perfect <hi>Criſis,</hi> the approaching Terror
+whereof, would not have afforded popular evils ſo long a time,
+or liberty to <hi>root</hi> themſelves or gather <hi>head</hi> againſt the peace and
+welfare of our happy Government; through the benefit where<g ref="char:EOLhyphen"/>of
+we might have taken an advantageous leiſure and mature deli<g ref="char:EOLhyphen"/>beration
+to <hi>ripen</hi> every Bill, and, by <hi>degrees,</hi> to rectifie every <hi>non<g ref="char:EOLhyphen"/>ag'd</hi>
+Crievance, and indeed, what happineſſe was there, which we
+had not then an offerd <hi>opportunity</hi> to bring upon this (now) un<g ref="char:EOLhyphen"/>happy
+Land? The Government of the <hi>State,</hi> as in many things,
+it was reduced into an excellent <hi>temper;</hi> ſo, queſtionleſſe, (had
+not this unnaturall difference interpoſed) it had in all things (by
+the continued goodneſſe and favour of His Sacred Majeſty) been
+perfected, to the comfort of us, and the happineſſe of ſucceeding
+<hi>Generations.</hi>
+            </p>
+            <p>The Government of the <hi>Church</hi> likewiſe might, by the vertue
+of the granted <hi>Trienniall,</hi> been narrowly and exactly ſearcht into;
+The <hi>Governours</hi> ſtrictly obſerved; The <hi>Bad</hi> turned out, and chan<g ref="char:EOLhyphen"/>ged
+for <hi>better;</hi> They that deſerved puniſhment, puniſht accor<g ref="char:EOLhyphen"/>ding
+to their <hi>miſdemeanours;</hi> Others, leſſe offending through
+ſome neglect, <hi>reproved</hi> and <hi>checkt;</hi> and, upon no amendment, the
+next <hi>Trienniall,</hi> proceeded againſt accordingly.</p>
+            <p>The <hi>Fig-tree</hi> was not preſently cut downe, <hi>Root</hi> and <hi>Branch,</hi>
+but ſuffered till <hi>another yeare;</hi> And puniſhments before an <hi>Admo<g ref="char:EOLhyphen"/>nition</hi>
+are too raſhly and ſeverely inflicted.</p>
+            <p>Thus by this graduall and Trienniall Courſe, Mercy and Ju<g ref="char:EOLhyphen"/>ſtice
+would have <hi>incorporated;</hi> the Government of the Church
+had been <hi>eſtabliſht;</hi> the peace of this Kingdome had been <hi>ſecu<g ref="char:EOLhyphen"/>red;</hi>
+the bad Governours had been <hi>rectified,</hi> or <hi>removed;</hi> the
+good, <hi>encouraged</hi> and <hi>honoured;</hi> and <hi>Peace and Truth had kiſt
+each other.</hi>
+            </p>
+            <p>But the multitudes of theſe our nationall <hi>ſins</hi> were too great,
+to permit ſo great a <hi>Bleſſing</hi> on this Nation, as the benefit of this
+<hi>Trienniall Parliament.</hi> God ſuffered <hi>Abraham</hi> to <hi>ſee the holy
+Land,</hi> but for the tranſgreſſions of the people, <hi>not to poſſeſſe it:</hi>
+God ſhewed us a <hi>glimpſe</hi> of that mercy (which our ſins made us
+unworthy to enjoy) and ſnatcht it from us. In which reſpect, we
+<pb n="20" facs="tcp:110960:12"/>
+are now left to our owne <hi>wayes,</hi> and governed by our owne <hi>In<g ref="char:EOLhyphen"/>ventions;</hi>
+and (what is worſe) we are neither penitent for our
+<hi>nationall</hi> ſins, nor our <hi>owne;</hi> nor (what is worſt of all) ſenſible
+of Gods <hi>Iudgements,</hi> nor our owne <hi>miſeries.</hi>
+            </p>
+            <p>How often have our Moderne Miniſters in their <hi>unmeditated</hi>
+prayers, before the open <hi>Congregation,</hi> given God <hi>joyfull</hi> thanks
+for theſe bleſſed times!<note place="margin">Eccleſ. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Whereas (if their <hi>hearts had not been ha<g ref="char:EOLhyphen"/>ſty
+to utter any things</hi> before God) they might have rather petiti<g ref="char:EOLhyphen"/>oned
+for a <hi>removall</hi> of theſe his terrible judgements: How often
+have they prayed for the <hi>continuance</hi> of theſe happy dayes!
+whereas,<note place="margin">
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> had not their <hi>mouthes been raſh,</hi> they might better have
+<hi>deprecated</hi> thoſe miſeries. How often have they in their <hi>Sermons,</hi>
+blaſphemouſly challenged God (upon the forfeiture of his Juſtice)
+to crowne their <hi>Cauſe</hi> with Victory! How often, inſtead of
+<hi>wholſome</hi> doctrine, have they delivered ſuch reports as their
+Conſciences knew <hi>Fables,</hi> and were before next Sabboth <hi>Lyes
+upon Record?</hi> How often have they preached downe <hi>Subjection</hi>
+to Princes, and encouraged the <hi>Sword</hi> to grow warme in the
+blood of Chriſtians? How often have they Articled againſt Or<g ref="char:EOLhyphen"/>thodoxe,
+able, and learned Divines; and crowded themſelves
+into their Livings, who upon my certaine knowledge (ſome of
+them) can neither make true <hi>Latine,</hi> nor write good <hi>Engliſh;</hi>
+and then, lay their <hi>preferment</hi> upon the wiſdome of the Parlia<g ref="char:EOLhyphen"/>ment?
+How many children above a yeare old (becauſe their fa<g ref="char:EOLhyphen"/>thers
+are ſuſpected to be loyall to their Prince) continue <hi>unbap<g ref="char:EOLhyphen"/>tiz'd?</hi>
+many pariſhes can witneſſe. How long time is it ſince the
+laſt <hi>Sacrament of the Lords Supper</hi> was adminiſtred, let the people
+tell, if their memories be ſo good; and then, the Elements deli<g ref="char:EOLhyphen"/>verd
+in their owne <hi>new deviſed</hi> words. Theſe are now the faith<g ref="char:EOLhyphen"/>full
+<hi>Miniſters</hi> of the Goſpel of <hi>Peace:</hi> Theſe the Miniſters of this
+<hi>bleſſed Reformation:</hi> Theſe the men that muſt pull downe <hi>Anti<g ref="char:EOLhyphen"/>chriſt</hi>
+out of his ſeat, and ſet up <hi>Chriſt Ieſus</hi> in his throne: Nay,
+rather, theſe are they that for filthy lucre carry men about with
+<hi>divers</hi> and ſtrange <hi>doctrines:</hi> Theſe are the men that in former
+times <hi>ſeparated</hi> themſelves, <hi>ſenſuall, having not the Spirit.</hi> Theſe
+are they that <hi>deſpiſe</hi> dominion, and <hi>ſpeak evill</hi> of dignities: Theſe
+are ſuch as have gone the way of <hi>Cain,</hi> and run greedily after the
+<pb n="21" facs="tcp:110960:12"/>
+error of <hi>Balaam</hi> for reward; and have periſhed in the <hi>gaine-ſay<g ref="char:EOLhyphen"/>ing</hi>
+of <hi>Core:</hi>
+               <note place="margin">Jud. 12.</note> Theſe are <hi>ſpyes</hi> in your feaſts of charity, feeding them<g ref="char:EOLhyphen"/>ſelves
+<hi>without feare;</hi> clouds, that are without <hi>Water</hi> carried about
+with the <hi>winde;</hi>
+               <note place="margin">13.</note> rageing <hi>waves</hi> of the Sea, fomeing out their own
+<hi>ſhame,</hi> to whom is reſerved the <hi>blackneſſe</hi> of darkneſſe for ever.</p>
+            <p>Is not this a bleſſed <hi>Prieſthood?</hi> Are not theſe rare <hi>materialls</hi>
+for a hopefull Presbytery? Fit governours for the <hi>houſe of God?</hi>
+            </p>
+            <p>Are not the two great <hi>Nurſeryes</hi> of this kingdom like to flour<g ref="char:EOLhyphen"/>iſh;
+when the chiefe <hi>Plants</hi> are pulled up by the roots, and onely
+theſe Crabſtocks ſuffered to proſper, and beare their own <hi>naturall</hi>
+fruit? Our fathers have eaten the <hi>Grapes,</hi> and their childrens teeth
+will be <hi>ſet on edge.</hi> They that have been the Pillars of our Re<g ref="char:EOLhyphen"/>lion
+are <hi>hewen down,</hi> and our falling Church is <hi>ſhored up</hi> with theſe
+inconſiderable <hi>ſpars.</hi> They that grappled with, and foyld the
+ſtouteſt <hi>Champions</hi> of the Church of Rome, are <hi>impriſoned;</hi> want<g ref="char:EOLhyphen"/>ing
+both <hi>bread</hi> and <hi>liberty;</hi> And ſuch as neither did, nor could, nor
+durſt appeare in ſuch a <hi>quarrel,</hi> are crownd with their <hi>Reward:</hi>
+They whoſe learning and orthodox piety made England the <hi>glo<g ref="char:EOLhyphen"/>ry
+of nations,</hi> and the <hi>envy</hi> of forraigne kingdoms, are now diſ<g ref="char:EOLhyphen"/>graced
+and ruined; and thoſe, that learning made not capable of a
+<hi>Degree,</hi> advanced and honoured to the great diſhonour of this
+kingdom.</p>
+            <p>Nor can I heare forget, how much this ſtaggering Church of
+England owes to her pious and religious <hi>Nurſing Father,</hi> and
+her faiths royall <hi>Defender,</hi> our gracious Soveraigne; whoſe wiſ<g ref="char:EOLhyphen"/>dom,
+moderation and tender piety (amongſt other of his princely
+vertues) hath ſo manifeſty ſhowed it ſelf; in not following the
+example of thoſe, whom my heart bleeds to call his Enemyes;
+and blazing the <hi>new</hi> Miniſtry of this kingdom, as they have done
+the <hi>old?</hi> Had his provoked paſſion publiſht a <hi>Century</hi> to the eye
+of all the world, of thoſe morall vices, hideous blaſphemies, infir<g ref="char:EOLhyphen"/>mities
+and faylings of the Clergy of the <hi>one party,</hi> as they did on
+<hi>the other,</hi> how would the Church of Rome, and all the <hi>Enemies</hi> of
+the Goſpel of Jeſus Chriſt, have hiſſed and derided our Religion?
+that, by the generall Confeſſion both of Prince, and people, had
+ſuch <hi>Monſters</hi> to adorne it? How would forraigne Chriſtians
+have been frighted at the very name of the <hi>Church of England?</hi>
+               <pb n="22" facs="tcp:110960:13"/>
+How would the ſtile of Proteſtant have become the <hi>Obloquy,</hi> and
+<hi>Byword</hi> of all Religions: It was not for want of <hi>matter:</hi> Report
+would have coynd enough, beſides that, which, perchance, would
+have made the <hi>truer hiſtory.</hi>
+            </p>
+            <p>Nor was it <hi>ſcarcity</hi> of pen-men, to paint their actions to the life:
+Oxford had &amp; yet hath Pens, ſharp enough, &amp; Inck that wanted no
+<hi>Gall:</hi> Nor can I conceive how ſuch nimble, active, and ſuch ſalik
+<hi>fancyes</hi> here could have forborne it, had not the wiſdom &amp; provi<g ref="char:EOLhyphen"/>dence
+of his Sacred Majeſty laid upon them his <hi>reſtraining</hi> pow<g ref="char:EOLhyphen"/>er:
+By which it evidently appeares to thoſe that are not obſti<g ref="char:EOLhyphen"/>natly
+and malitionſly blinded with the darkneſſe of reſolved Re<g ref="char:EOLhyphen"/>bellion,
+that his Majeſties ſolemne <hi>Vowes,</hi> and ſerious <hi>Proteſtati<g ref="char:EOLhyphen"/>ons,</hi>
+for the maintaining the honour of the true Proteſtant Reli<g ref="char:EOLhyphen"/>gion,
+agree with his moſt pious <hi>Intentions,</hi> and publiſhed <hi>Reſolu<g ref="char:EOLhyphen"/>tions:</hi>
+Had his ſecret affections been <hi>warpt,</hi> or the l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt degree <hi>wa<g ref="char:EOLhyphen"/>vering</hi>
+from the Church of England, or any whit <hi>inclineing</hi> to the
+Romiſh ſuperſtition; had the imaginations of his heart intended
+ſecretly an <hi>introduction</hi> of the popiſh Religion, how could his
+new deſigne been better animated, then by an inward <hi>diſlike</hi> of the
+Proteſtant Religion, &amp; how could that diſlike have been better fo<g ref="char:EOLhyphen"/>mented
+and encouraged, then by the Advantage, the juſt Advan<g ref="char:EOLhyphen"/>tage
+taken of the generall <hi>corruption</hi> of her Miniſtry?</p>
+            <p>But the wiſdom and tenderneſſe of his Piety ſtands <hi>ſilent,</hi> in
+this behalfe; and, in his ſingular prudence, hath not ſo much as
+taken notice, or in any of his Declarations once <hi>reproved</hi> the un<g ref="char:EOLhyphen"/>charitable
+impiety of that ſcandalous <hi>Pamphlet,</hi> for fear of further
+blazing it, but rather ſuffering it to periſh in its own filthynes, and
+chooſing rather to groane under the <hi>burthen</hi> of his faithfull and
+abuſed Clergy, then by revengeing and painting forth the crimes
+of the other party (farre more guilty) to afflict Religion
+under the <hi>burthen</hi> of both.</p>
+            <p>Thus is the health of our languiſhing Church <hi>impayred;</hi> thus is
+the body of our craz'd Government <hi>diſtemperd;</hi> thus is the peace
+of our Saviours Spouſe <hi>diſquieted;</hi> thus is the welfare of our En<g ref="char:EOLhyphen"/>gliſh
+Sion <hi>determined;</hi> Her Dove-like piety is turned to <hi>Serpen<g ref="char:EOLhyphen"/>tine</hi>
+policy; her Unity, to <hi>Diviſion;</hi> her Uniformity, to <hi>Diſorder;</hi>
+her Sanctity to <hi>Prophaneneſſe;</hi> her Needle-work robes to a <hi>parti-coloured
+<pb n="23" facs="tcp:110960:13"/>
+Coate;</hi> her honour into <hi>diſgrace,</hi> her glory into <hi>diſdaine,</hi>
+and her proſperity into <hi>deſtruction.</hi>
+               <note place="margin">Lam. 1 2.</note> She weepeth in the night,
+and her teares, are in her Cheekes. Among all her <hi>Lovers</hi> there
+is none to <hi>comfort</hi> her; and all her friends have delt <hi>treacherouſly</hi>
+with her;<note place="margin">ver. 9.</note> Her adverſaries are the <hi>chiefe;</hi> and her <hi>enemies</hi> proſper;
+for the Lord hath afflicted her for the multitude of her <hi>tranſgreſ<g ref="char:EOLhyphen"/>ſions:</hi>
+Her children are gone into <hi>captivity</hi> before the Enemy,<note place="margin">2. 9.</note> and
+her gates are <hi>ſunk</hi> into the Ground: Her <hi>King</hi> and <hi>Princes</hi> are
+among the Gentiles; her <hi>law is no more,</hi> and her Prophets finde no
+<hi>viſion</hi> from the Lord:<note place="margin">ver. 10.</note> The Elders of the <hi>Daughter</hi> of Sion ſit
+upon the ground, and <hi>keep ſilence,</hi> and have girded themſelves
+with <hi>ſackcloth;</hi> The <hi>horne</hi> of her enemies is lifted up, They ſpared
+not the perſons of her <hi>Prieſts,</hi> they favoured not her <hi>Elders,</hi> they
+have laid wait for the breath of our Noſtrils,<note place="margin">Lam. 4. 20.</note> 
+               <hi>the Annointed of the
+Lord,</hi> and ſervants beare <hi>rule</hi> over us. Our Inheritance is turn<g ref="char:EOLhyphen"/>ed
+to <hi>ſtrangers,</hi>
+               <note place="margin">Lam. 5. 4.</note> and our houſes to <hi>Alyants:</hi> We drink our <hi>Water</hi>
+for money,<note place="margin">Lam. 3. 4.</note> and our <hi>Woods</hi> are ſold to us: We have ſinned and have
+rebelled, therefore thou haſt not ſpared: For this our hearts, our
+hearts faint, for theſe things our eyes are <hi>dimme;</hi> For theſe things
+I weep, mine eye, mine eye <hi>runneth down</hi> with water.</p>
+            <p>Where, O where are you, all you that are the wiſdom and Go<g ref="char:EOLhyphen"/>vernours
+of this unhappy Iſland? Where, O where are you, the
+<hi>great Counſell</hi> and grave <hi>Senators</hi> of this falling Kingdome?
+Where, O where are you, the great <hi>Colledge</hi> of politicall Phyſiti<g ref="char:EOLhyphen"/>ans
+of this languiſhing Common-wealth? Are ye all fallen <hi>a<g ref="char:EOLhyphen"/>ſleep,</hi>
+while we periſh? &amp; is there none to awake you? Open your
+eyes, unlock your eares, and mollify your hearts: Behold, behold
+the miſeries of <hi>your</hi> land, and if Compaſſion be not baniſht from
+the earth, pitty, O pitty the <hi>approaching</hi> Ruines of this your
+<hi>groanning,</hi> this your native kingdom. Heare O harken to the ſad
+Complaints of your afflicted <hi>petitioners;</hi> and, if your hearts be
+not of <hi>Adamant,</hi> relent, and let them not in vaine petition for their
+<hi>lives:</hi> Let the breath of this diſtempered kingdom, contracted
+into one extreame ſigh, move you to the ſpeedy endeavours of a
+timely <hi>Cure.</hi> Inquire into her <hi>Conſtitution,</hi> Examine her <hi>diſtem<g ref="char:EOLhyphen"/>pers,</hi>
+and reduce her to her firſt <hi>Principles:</hi> Try no experiments
+upon a body ſo <hi>declined,</hi> and let not the <hi>Acuteneſſe</hi> of her diſeaſe
+<pb n="24" facs="tcp:110960:14"/>
+perſwade you to a <hi>deſperate</hi> remedy, Look, O look back into the
+bleſſed dayes of Queene <hi>Elizabeth:</hi> Obſerve what bleſſings we
+then had, both by Sea and Land; What <hi>plenty;</hi> what <hi>ſucceſſe;</hi>
+what <hi>victories;</hi> what honour <hi>abroad;</hi> what unity at <hi>home;</hi> and
+indeed what had we not that could make a kingdom happy?
+Reduce us, O reduce us to that happy government; and let not
+the <hi>eagerneſſe</hi> of a Reformation be a means to want men to be
+<hi>Reformed,</hi> or <hi>matter</hi> for a Reformation: Remember, O remember
+that great <hi>Reformer</hi> Chriſt Jeſus; He was againſt all blood ſhed,
+but his <hi>own;</hi> for that <hi>blood</hi> ſake follow his Example: Or if the
+way muſt needs be made by <hi>blood,</hi> let it light rather a little, upon
+<hi>many</hi> Generations, then all upon <hi>one;</hi> the ruine whereof will
+deny us an other <hi>Generation:</hi> Let not the children of your Mo<g ref="char:EOLhyphen"/>ther
+ſterve in <hi>the land of bread,</hi> and let not the foundations of your
+naturall kingdom be longer dabled in <hi>unnaturall blood.</hi> Turne,
+O turn your eyes upon her breaches, and let not ſtrangers <hi>Lord</hi> it
+in her Gates. For the mercyes of that God which hath been mer<g ref="char:EOLhyphen"/>cifull
+to you, be mercifull to <hi>millions</hi> of Chriſtians, whoſe lives
+depend upon your <hi>Care;</hi> be mercifull to millions of <hi>children,</hi>
+that know not their right hands from their left; be mercifull to
+generations unborne; to whom, when deep Records ſhall bring
+the <hi>Chronicles</hi> of your Actions, ages to come may magnifie your
+<hi>Merits:</hi> For his ſake that is the <hi>Prince of peace,</hi> as you deſire to
+meet peace upon your <hi>Death beds,</hi> let this Sea of blood already
+ſpilt be thought <hi>ſufficient:</hi> For the whole body of Englands ſake,
+who have <hi>truſted</hi> their power into your hands, that have caſt all
+their welfares upon your wiſdomes; for their ſakes that venture
+their lives and fortunes upon your providence; for your own
+ſakes; for your tender wives and dear children ſakes; for the God
+of <hi>mercyes</hi> ſake, as you love mercy; for Chriſt Jeſus, the God of
+<hi>peace</hi> his ſake, as you prize the peace of a Good Conſcience,
+hearken to, and enſue <hi>peace,</hi> while there is a <hi>poſſibility</hi> of Peace.</p>
+            <p>Darken not that Religion with the <hi>black ſtorms</hi> of contenti<g ref="char:EOLhyphen"/>on,
+you profeſſe to <hi>glorifie:</hi> Leſſen not the glory of that Church,
+by <hi>partiality,</hi> which you have promiſed to <hi>beautifie:</hi> Draggle
+not that Goſpel in the <hi>ſinks</hi> of bloud, which you have proteſted
+to <hi>magnifie:</hi> The ſinnes of <hi>Nineveh</hi> were not too great for <hi>Gods</hi>
+               <pb n="25" facs="tcp:110960:14"/>
+compaſſion, and ſhall the offences of poore England be too great
+for <hi>yours?</hi> Nineveh cryed mightily to heaven, and they were ſpa<g ref="char:EOLhyphen"/>red;
+and ſhall the miſeries of <hi>three Kingdomes</hi> be hollowed in
+your eares, and not heard? Well, If Ruine, by a <hi>forreigne power
+come,</hi>
+               <note place="margin">Heſt. 4. 13</note> (which the God of heaven and earth forbid) think not
+with your ſelves that you ſhall ſcape the <hi>Fury</hi> more then all
+the reſt:<note place="margin">14.</note> But if you altogether ſtop your eares, at ſuch a time
+as this, then ſhall Enlargement and Deliverance <hi>ariſe</hi> to Eng<g ref="char:EOLhyphen"/>land
+from another <hi>place,</hi> but you and your houſes ſhall be deſtroy<g ref="char:EOLhyphen"/>ed;
+And who knowes whether you are ſent to this employment,
+for ſuch a time as this?</p>
+            <p>O thou that art the great preſerver of mankind, to thee, to thee
+we turne the <hi>voyce</hi> of our complaint: Thou, thou art <hi>gracious,</hi>
+and <hi>plentifull</hi> in Compaſſion, but in man there is no <hi>help,</hi>
+               <note place="margin">Lam. 3. 24</note> nor
+<hi>mercy</hi> in the ſons of men.<note place="margin">Job 13. 15.</note> Thou art my <hi>portion</hi> O God, and I
+will <hi>truſt</hi> in thee,<note place="margin">Pſal. 146.</note> although thou <hi>kill</hi> me. I will not truſt in my
+<hi>bow,</hi>
+               <note place="margin">Pſ. 14. 1, 2.</note> it is not my <hi>ſhield</hi> that can ſave me, but it is <hi>thou</hi> alone, O
+God, that canſt deliver us. Deliver us O God from the <hi>evil</hi> men,
+preſerve us from the <hi>cruell</hi> men, which imagine evill in their
+hearts, and make warre <hi>continually.</hi> Have mercy, O Lord, have
+mercy upon us,<note place="margin">123. 3.</note> for we have <hi>ſuffered</hi> too much contempt. Heare
+the mourning of the <hi>Priſoners,</hi>
+               <note place="margin">102 20.</note> and deliver the children from
+<hi>death.</hi>
+               <note place="margin">83. 5.</note> They have <hi>conſulted</hi> together in heart, and have made a
+<hi>league</hi> againſt thee.<note place="margin">79. 4.</note> We are a reproach to our <hi>neighbours,</hi> even a
+ſcorne and deriſion to them that are <hi>round about us.</hi>
+               <note place="margin">74. 10.</note> O God, how
+long ſhall the Adverſary <hi>reproach</hi> thee? Shall the enemy <hi>blaſ<g ref="char:EOLhyphen"/>pheme</hi>
+thy Name for ever? Remember the children of <hi>Edom</hi> O
+Lord in the day of <hi>Ieruſalem,</hi>
+               <note place="margin">137. 7.</note> which ſaid, <hi>Raſe it, raſe it,</hi> to the
+foundations thereof.<note place="margin">132. 9.</note> Let thy Prieſts be clothed with <hi>righteouſ<g ref="char:EOLhyphen"/>neſſe,</hi>
+and let thy Saints <hi>rejoyce.</hi>
+               <note place="margin">89. 46.</note> Lord, how long wilt thou <hi>hide
+thy ſelfe?</hi> for ever? Shall thy wrath burne like fire? Wilt thou
+be angry with us for ever?<note place="margin">85. 5.</note> Wilt thou <hi>prolong</hi> thy wrath from
+generation to generation?<note place="margin">84. 9.</note> Behold, O God, our Shield; and look
+upon the face of thine <hi>Anointed.</hi> Let thine hand be upon the <hi>man
+of thy right hand,</hi> whom thou haſt made ſo <hi>ſtrong</hi> for thy ſelf. Give
+thy <hi>Iudgements</hi> to the King,<note place="margin">80. 17.</note> and thy <hi>righteouſneſſe</hi> to the Kings
+ſonne; that peace may be in <hi>his</hi> dayes,<note place="margin">72. 1.</note> and let his <hi>enemies</hi> lick the
+<pb n="26" facs="tcp:110960:15"/>
+duſt: Clothe his enemies with <hi>ſhame,</hi> but upon his head let his
+Crowne <hi>flouriſh.</hi>
+               <note place="margin">132. 18.</note> How long ſhall the wicked, O Lord, how long
+ſhall the wicked <hi>triumph?</hi>
+               <note place="margin">94. 3.</note> They prate and ſpeak <hi>fiercely,</hi> and the
+workers of iniquity <hi>vaunt</hi> themſelves. They <hi>ſmite downe</hi> thy
+people, O Lord, and <hi>trouble</hi> thine Inheritance. They ſlay the
+<hi>widow</hi> and the <hi>ſtranger,</hi>
+               <note place="margin">115. 10.</note> and murther the <hi>fatherleſſe.</hi> O houſe of
+<hi>Aaron</hi> truſt in the Lord, for he is our <hi>help</hi> and our <hi>ſhield;</hi> He will
+bleſſe the houſe of <hi>Iſrael,</hi> and he will bleſſe the houſe of <hi>Aaron.</hi>
+Praiſe ye the Lord ye houſe of <hi>Iſrael,</hi>
+               <note place="margin">135. 19.</note> praiſe ye the Lord ye houſe
+of <hi>Aaron,</hi> praiſe ye the Lord ye houſe of <hi>Levi:</hi> Ye that feare the
+Lord, praiſe the Lord.</p>
+            <q>
+               <bibl>PSAL. 122. 6, 7, 8, 9.</bibl>
+               <p>Pray for the peace of Jeruſalem: they ſhall proſper that love
+thee.</p>
+               <p>Peace be within thy walls, and proſperity within thy palaces.</p>
+               <p>For my brethren and companions ſakes, I will now ſay, Peace
+be within thee.</p>
+               <p>Becauſe of the houſe of the Lord our God, I will ſeek thy good.</p>
+            </q>
+            <q>
+               <bibl>Hier. ſup. Epiſt. ad Rom.</bibl>
+               <p>Quiſquis corpus ſuum affligit, &amp; concordiam deſerit, laudat
+Deum quidem in Tympano, ſed non laudat in Chore.</p>
+            </q>
+            <trailer>The End.</trailer>
+            <pb facs="tcp:110960:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
